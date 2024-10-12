@@ -1,0 +1,25 @@
+
+.input-container input {
+    width: 600px;
+}
+
+.item-holder {
+    width:680px;
+}
+
+
+.input-container button {
+    width: 60px;
+}
+
+.list-group-item button {
+    background-color: red;
+    border-radius: 5px;
+    padding: 7px 10px;
+    border: none;
+}
+
+.input-alert{
+    color: red;
+    width: 680px;
+}
